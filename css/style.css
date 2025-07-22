@@ -18,7 +18,7 @@ body {
 
 /* Optional: Add a background overlay for better readability */
 body::before {
-    content: "";
+    /* content: ""; */
     position: fixed;
     top: 0;
     left: 0;
